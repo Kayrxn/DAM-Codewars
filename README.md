@@ -25,3 +25,4 @@
 23. Duplicate encoder (https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 24. Permute a Palindrome (https://www.codewars.com/kata/58ae6ae22c3aaafc58000079)
 25. Convert string to camel case (https://www.codewars.com/kata/517abf86da9663f1d2000003)
+26. Sum of array singles (https://www.codewars.com/kata/59f11118a5e129e591000134)
