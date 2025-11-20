@@ -8,3 +8,5 @@
 6. The animals went two by two (https://www.codewars.com/kata/578de3801499359921000130)
 7. N smallest elements in original order (https://www.codewars.com/kata/5aec1ed7de4c7f3517000079)
 8. Are they the "same"? (https://www.codewars.com/kata/550498447451fbbd7600041c)
+9. Find the position (https://www.codewars.com/kata/5808e2006b65bff35500008f)
+
