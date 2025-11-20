@@ -20,3 +20,4 @@
 18. Grasshoper basic function fixer (https://www.codewars.com/kata/56200d610758762fb0000002)
 19. Array plus array (https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 20. Extract domain name from URL (https://www.codewars.com/kata/514a024011ea4fb54200004b)
+21. Reversed Strings (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
