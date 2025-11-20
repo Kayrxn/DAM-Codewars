@@ -26,3 +26,4 @@
 24. Permute a Palindrome (https://www.codewars.com/kata/58ae6ae22c3aaafc58000079)
 25. Convert string to camel case (https://www.codewars.com/kata/517abf86da9663f1d2000003)
 26. Sum of array singles (https://www.codewars.com/kata/59f11118a5e129e591000134)
+27. Find roots of quadratic equation (https://www.codewars.com/kata/57d448c6ba30875437000138)
