@@ -9,4 +9,4 @@
 7. N smallest elements in original order (https://www.codewars.com/kata/5aec1ed7de4c7f3517000079)
 8. Are they the "same"? (https://www.codewars.com/kata/550498447451fbbd7600041c)
 9. Find the position (https://www.codewars.com/kata/5808e2006b65bff35500008f)
-
+10. A needle in the haystack (https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
