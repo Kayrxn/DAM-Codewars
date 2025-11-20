@@ -13,3 +13,4 @@
 11. How many lightsabers do you own? (https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 12. Rock, paper, scissors (https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 13. Keep hydrated (https://www.codewars.com/kata/582cb0224e56e068d800003c)
+14. Remove first and last letter (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
