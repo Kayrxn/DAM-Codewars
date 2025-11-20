@@ -21,3 +21,4 @@
 19. Array plus array (https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 20. Extract domain name from URL (https://www.codewars.com/kata/514a024011ea4fb54200004b)
 21. Reversed Strings (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+22: Replace with alphabet position (https://www.codewars.com/kata/546f922b54af40e1e90001da)
