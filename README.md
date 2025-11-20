@@ -18,3 +18,4 @@
 16. Sum of positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
 17. Sort my textbooks (https://www.codewars.com/kata/5a07e5b7ffe75fd049000051)
 18. Grasshoper basic function fixer (https://www.codewars.com/kata/56200d610758762fb0000002)
+19. Array plus array (https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
