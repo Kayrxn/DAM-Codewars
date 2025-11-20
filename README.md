@@ -23,3 +23,4 @@
 21. Reversed Strings (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 22. Replace with alphabet position (https://www.codewars.com/kata/546f922b54af40e1e90001da)
 23. Duplicate encoder (https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+24. Permute a Palindrome (https://www.codewars.com/kata/58ae6ae22c3aaafc58000079)
