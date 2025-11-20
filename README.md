@@ -27,3 +27,4 @@
 25. Convert string to camel case (https://www.codewars.com/kata/517abf86da9663f1d2000003)
 26. Sum of array singles (https://www.codewars.com/kata/59f11118a5e129e591000134)
 27. Find roots of quadratic equation (https://www.codewars.com/kata/57d448c6ba30875437000138)
+28. Combine strings (https://www.codewars.com/kata/55f73f66d160f1f1db000059)
