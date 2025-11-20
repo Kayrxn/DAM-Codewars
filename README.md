@@ -14,3 +14,5 @@
 12. Rock, paper, scissors (https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 13. Keep hydrated (https://www.codewars.com/kata/582cb0224e56e068d800003c)
 14. Remove first and last letter (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+15. The if function (https://www.codewars.com/kata/54147087d5c2ebe4f1000805)
+16.
