@@ -16,3 +16,4 @@
 14. Remove first and last letter (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 15. The if function (https://www.codewars.com/kata/54147087d5c2ebe4f1000805)
 16. Sum of positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
+17. Sort my textbooks (https://www.codewars.com/kata/5a07e5b7ffe75fd049000051)
