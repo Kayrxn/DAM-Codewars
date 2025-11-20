@@ -2,7 +2,7 @@
 
 1. Who ate the cookie? (https://www.codewars.com/kata/55a996e0e8520afab9000055)
 2. Plurals (https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
-3. Is this a pleindrome? (https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
+3. Is this a palindrome? (https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 4. Sum arrays (https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 5. Dictionary merge (https://www.codewars.com/kata/5ae840b8783bb4ef79000094)
 6. The animals went two by two (https://www.codewars.com/kata/578de3801499359921000130)
@@ -20,4 +20,3 @@
 18. Grasshoper basic function fixer (https://www.codewars.com/kata/56200d610758762fb0000002)
 19. Array plus array (https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 20. Extract domain name from URL (https://www.codewars.com/kata/514a024011ea4fb54200004b)
-
