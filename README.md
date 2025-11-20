@@ -12,4 +12,4 @@
 10. A needle in the haystack (https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
 11. How many lightsabers do you own? (https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 12. Rock, paper, scissors (https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
-
+13. Keep hydrated (https://www.codewars.com/kata/582cb0224e56e068d800003c)
